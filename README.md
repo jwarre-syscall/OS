@@ -34,6 +34,7 @@ Two separate programs—`producer` and `consumer`—coordinate through shared me
 - POSIX-compliant system
 
 # Compilation
+```bash
 make
 
 # Execution
