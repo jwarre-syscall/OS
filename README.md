@@ -20,8 +20,6 @@ Two separate programs—`producer` and `consumer`—coordinate through shared me
 | `common.hpp`    | Shared definitions, constants, and data structures. |
 | `shared_mem.cpp`| Shared memory helper functions (create, attach, detach, destroy). |
 | `shared_mem.hpp`| Header for shared memory helpers. |
-| `Makefile`      | Automates compilation of producer and consumer binaries. |
-| `run.sh`        | Script to launch producer and consumer processes. |
 | `README.md`     | This documentation file. |
 
 ---
